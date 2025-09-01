@@ -6,18 +6,6 @@ This project is a deep learning-based application for detecting plant diseases f
 It is built with TensorFlow/Keras and trained on the -- PlantVillage dataset(https://www.kaggle.com/datasets/emmarex/plantdisease?utm_source=chatgpt.com)
 
 
-Project Structure
-
-plant-disease-detection/
-│── model_app.py        # Main script for training & prediction
-│── requirements.txt    # Dependencies
-│── README.md           # Project documentation
-│── saved_model/        # Trained model
-│── dataset/            # Dataset folder (PlantVillage images)
-│   ├── train/
-│   ├── val/
-│   └── test/
-
 
 ⚡ Features
 
